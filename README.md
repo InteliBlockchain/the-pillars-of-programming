@@ -1,4 +1,4 @@
-# Inteli Blockchain Roadmap
+# The Pillars of Programming
 
 ### Authored by
 

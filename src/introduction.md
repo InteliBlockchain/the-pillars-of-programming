@@ -1,4 +1,4 @@
-# Inteli Blockchain Roadmap
+# The Pillars of Programming
 _by [Mister Clayton](https://github.com/misterclayt0n) (Davi Arantes) and [Coutin](https://github.com/c0utin) (Rafael Coutinho), contributions from the Inteli Blockchain community_
 
 Welcome to the _Inteli Blockchain Roadmap_!
