@@ -36,3 +36,4 @@ As a general guideline, here's some pragmatic advice on how to use this content:
 
 // TODO: knuth algorithm on how to read this book,
 // TODO: link this shit: https://pll.harvard.edu/course/cs50-introduction-computer-science for absolute beginners (they don't know what `print()` is)
+// TODO: this book it's a community products be free to contribute section
