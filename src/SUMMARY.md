@@ -1,6 +1,8 @@
 # Summary
 
-[Introduction](./introduction.md)
+[Introduction](./chapter_0/introduction.md)
+[The pillars](./chapter_0/the_pillars.md)
+[Study Object](./chapter_0/study_object.md)
 - [Algorithms and Data Structures](./chapter_1/introduction.md)
   - [What is an Algorithm](./chapter_1/what_is_an_algorithm.md)
   - [Complexity](./chapter_1/complexity.md)

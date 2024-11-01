@@ -1,23 +1,22 @@
 # The Pillars of Programming
 _by [Mister Clayton](https://github.com/misterclayt0n) (Davi Arantes) and [Coutin](https://github.com/c0utin) (Rafael Coutinho), contributions from the Inteli Blockchain community_
 
-Welcome to the _Inteli Blockchain Roadmap_!
+Welcome to _The Pillars of Programming_
 
 ### Why this book exists
-This book started with a course, and became a unique experience. Written by two lazy university students who love tecnology and are tired of so much bullshit in tech...
-// TODO: finish
+This book began as a course and evolved into a unique experience. Written by two lazy university students who love technology and are tired of all the bullshit in tech, it’s here to show you that computers can do far more interesting things than hard calculations, and programmers can do more than just web development; there is an infinite world of possibilities for what you can create.
 
-### Who is for
+### Who this book is for
 The reader should have some previous experience developing computer programs, this book doesn't start from absolutely zero, and it's important that you have some knowledge of what are variables, control flows, functions, conditionals, etc.
 </br>
 
-Mathematics isn't a major topic of this book, but to surprise you, computers speak's math, and we'll use many mathematical notations to prove certain propositions or demonstrate ideas.
+Mathematics isn't a major topic of this book, but to surprise you, computers "speak" math. We'll use many mathematical notations to prove certain propositions or demonstrate ideas.
 
 </br>
 However, in general, this was meant for:
 
-- Programmers that want to be good.
-- Any curious mf.
+- Programmers seeking to go beyond the basics.
+- Curious nerds.
 
 ### Goals
 This book was written with one goal in mind, which is:
@@ -32,6 +31,7 @@ As a general guideline, here's some pragmatic advice on how to use this content:
 - Read the book at your own pace.
 - It is highly incentivised for the reader to search way beyond what the book has to offer.
 - Be open-minded, free yourself from any closed paradigm (objects are just data structures, don't treat them as religion).
+- Write your version of code from examples.
 - Have fun.
 
 // TODO: knuth algorithm on how to read this book,
