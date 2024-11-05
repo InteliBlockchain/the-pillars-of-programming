@@ -1,8 +1,12 @@
 # TODO
 
-### Chapter 1
+### Chapter 0
 
-- [ ] [Algorithms and Data Structures](./chapter_1/introduction.md) -> both
+- [ ] [Algorithms and Data Structures](./chapter_0/introduction.md) -> both
+- [ ] [Algorithms and Data Structures](./chapter_0/the_pillars.md) -> misterclayt0n
+- [ ] [Algorithms and Data Structures](./chapter_0/study_object.md) -> c0utin
+
+### Chapter 1
 - [ ] [What is an Algorithm](./chapter_1/what_is_an_algorithm.md) -> c0utin
 - [ ] [Complexity](./chapter_1/complexity.md) -> c0utin
 - [ ] [Arrays](./chapter_1/arrays.md) - c0utin
