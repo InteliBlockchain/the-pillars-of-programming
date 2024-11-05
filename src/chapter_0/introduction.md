@@ -34,6 +34,14 @@ As a general guideline, here's some pragmatic advice on how to use this content:
 - Write your version of code from examples.
 - Have fun.
 
-// TODO: knuth algorithm on how to read this book,
+#### Sequential processes to read this book
+
+![Flowchart](/images/how_read_flowchart.svg)
+
+//TODO
+
+
+
+// TODO: knuth algorithm on how to read this book, flowchar is done, need text.
 // TODO: link this shit: https://pll.harvard.edu/course/cs50-introduction-computer-science for absolute beginners (they don't know what `print()` is)
 // TODO: this book it's a community products be free to contribute section
