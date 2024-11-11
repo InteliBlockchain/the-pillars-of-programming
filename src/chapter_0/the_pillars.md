@@ -48,7 +48,7 @@ int main() {
 }
 ```
 
-Wtf? Well, floating point arithmetic can introduce tiny errors that can snowball into significant bugs, especially in finance applications like blockchain where
+Wtf? Well, floating point arithmetic can introduce tiny errors that can snowball into significant bugs, especially in finance applications like blockchain.
 
 #### Matrix multiplication
 *Mathematical Concept:* $C = A \times B$
@@ -116,3 +116,39 @@ int main()
 ```
 
 Well, as you can see, in math, we can just say that $A$ and $B$ are both matrices, write a little multiplication symbol and boom, done. We don't have to write any sort of detailed explanation as to how we should multiply anything, just declare it and we gucci boyz. Well in code, if you're not using something like [NumPy](https://numpy.org/), you're probably in for some pain in the ass. This is a great example where understanding math is a lot more simple than code.
+
+### Math as a tool
+The key takeaway from this is that math should be a tool, not the end goal (unless you also want to be a mathematician). Embracing the power of mathematics to build better software, but never letting it overshadow the practical concerns of software development. Think like this: There is some sort of universal language that, over the course of thousands of years, has layed fundamental ideas on how to manipulate data and express logic in different ways. Now think like this: You have the power to take those ideas, take them out of the paper, put them on a computer, and extrapolate them into cool software. Some important math topics that every good software engineer should know:
+
+#### Discrete Math
+  - **Topics**: Logic, Set Theory, Combinatorics, Graph Theory, Algorithms, Number Theory, Proof Techniques, etc.
+  - **Why**: It's pretty much de backbone of computer science. It deals with distinct and separate values, making it perfect for understanding how algorithms and data structures work, and lays the foundations of how logic works in general, and how you can read and understand math propositions.
+  - **Applications**: Coding as a whole is pretty much discrete math in practice.
+  - **Practical Considerations**: It's not that important of a topic to study by itself, since much of it is covered naturally by other topics of computer science, but it's important to be able to read math propositions, argue against them, and also make proofs of your own.
+  - **Resources**: [Discrete Math and It's Applications - Kenneth H. Rosen](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090)
+#### Linear Algebra
+  - **Topics**: Vectors, Matrices, Eigenvalues, Vector Spaces, Linear Maps, etc.
+  - **Why**: Linear Algebra was invented by mathematicians as a framework for working with data by transforming them in an abstract way, allowing for manipulations in data that can be represented by n-dimensions (which is the majority of real-world data).
+  - **Applications**: Applications range from blockchain, quantum computing, data science, machine learning, computer graphics, video games programming, computer vision, networks, and so on.
+  - **Practical Considerations**: Honestly, that's probably the most important topic on this list because of the huge amount of potention it lays. Any non trivial problem can probably be broken into the tools that linear algebra provides, hence why it's present pretty much everywhere in computation as a whole.
+  - **Resources**: [Linear Algebra Done Right - Sheldon Axler](https://linear.axler.net/)
+#### Probabilities and Statistics
+  - **Topics**: Probability Theory, Random Variables, Distributions, Statistical Inference, etc.
+  - **Why**: This topic is crucial for making sense of uncertainty and variability in data. They provide the mathematical foundations for reasoning about randomness and making data-driven decisions. They help you create models that make accurate predictions, measure the likelihood of outcomes, and test hypotheses.
+  - **Applications**: Probabilities and Statistics are the foundation for machine learning and data science, I guess this says it all.
+  - **Practical Considerations**: It's probably not the idea for you to become full-fledged statistician, but having a strong grasp of probability and statistical methods is a huge asset in computer science.
+  - **Resources**: [Introduction to Probability - Dimitri P. Bertsekas and John N. Tsitsiklis](https://www.amazon.com/Introduction-Probability-Second-Dimitri-Bertsekas/dp/188652923X)
+
+#### Calculus
+  - **Topics**: Limits, Derivatives, Integrals, Series, Differencial Equations etc.
+  - **Why**: Calculus provides tools for understanding change, motion, and the behavior of complex systems over time. It's a particularly great tool for optimizations, continuous modeling, and analysis, which are all core tasks in software development.
+  - **Applications**: Calculus is key for tasks involving optimization (like finding the best parameters in a machine learning model), understanding rates of change (e.g., network latency or system load), and modeling real-world phenomena (such as physical simulations in gaming and graphics, or analyzing dynamic financial data). In blockchain, it can help optimize network performance and resource allocation.
+  - **Practical Considerations**: It's not really important to become incredibly advanced in calculus. Having a firm grasp of the basics is probably all you'll ever need, which means Calculus I, II.
+  - **Resources**: [Calculus - Michael Spivak](https://www.amazon.com/Calculus-Michael-Spivak/dp/0914098918)
+
+#### Number Theory and Cryptography
+  - **Topics**: Prime Numbers, Modular Arithmetic, Cryptographic Algorithms, Public-Key Cryptography, Hash Functions, etc.
+  - **Why**: Number Theory forms the backbone of modern cryptography, you can now imagine how crucial this is for blockchain.
+  - **Applications**: Number Theory and Cryptography are indispensable in cybersecurity, blockchain, and digital transactions. Applications range from encryption algorithms like RSA and Elliptic Curve Cryptography (ECC) to hashing functions used in blockchain to secure transaction data. Without these concepts, modern digital security—including secure internet transactions, blockchain, and data integrity—would be impossible.
+  - **Practical Considerations**: Again, there is no need for you to become an expert on this topic, but understanding the basics can help you understand better cryptographic protocols.
+  - **Resources**: [An Introduction to the Theory of Numbers - G.H. Hardy and E.M. Wright](https://www.amazon.com/Introduction-Theory-Numbers-G-H-Hardy/dp/0199219869), [Understanding Cryptography - Christof Paar and Jan Pelzl](https://www.amazon.com/Understanding-Cryptography-Textbook-Students-Practitioners/dp/3642041000)
