@@ -1,1 +1,6 @@
 # The pillars
+My dear reader, welcome to the cornerstone of your programming enlightenment--or whatever semblance of it you'll achieve after wading through this chapter. Here, we dissect the four almighty pillars that hold up the shaky (very shaky) roof of the world: **Mathematics**, **Computer Networks**, **Algorithms & Data Structures** and **Operating Systems**. And yes, don't you worry, we'll tell you where blockchain fits into all this
+
+## 1. Mathematics - The Nerdy Language of Computers
+### Why Math Matters (Even If You Think It Doesn't)
+Here's the thing: Math is everywhere. From the algorithms that sort your data to the cryptographic protocols securing blockchain transactions, and even your CRUD apps (actually, probably not). The very term "compute" is derived from "count", underscoring the deep-rooted connection between mathematics and computing, and some would even argue that computer science is a branch of mathematics. In fact, early computer science pioneers were essentially mathematicians, people like Alan Turing, Ada Lovelace and Donald Knuth (the goat), the grandmaster who wrote *The Art of Computer Programming*, whose work laid the mathematical foundations for algorithms and data structures, compilers, and much, much more.
