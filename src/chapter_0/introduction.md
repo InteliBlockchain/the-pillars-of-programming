@@ -36,7 +36,7 @@ As a general guideline, here’s some pragmatic advice on how to use this conten
 
 #### Sequential Processes to Read This Book
 
-![Flowchart](/images/how_read_flowchart.svg)
+![Flowchart](../images/how_read_flowchart.svg)
 
 1. Entry point for reading this book in the recommended way: but feel free to be a rebel.
 
@@ -57,6 +57,8 @@ As a general guideline, here’s some pragmatic advice on how to use this conten
 9. If you're finding the section interesting, or it covers unfamiliar content, a bit of theory won’t hurt.
 
 10. Always put things into practice: You only truly understand something when you can do it yourself, so go ahead and implement what you’ve learned.
+
+    > What i cannot create, I do not understand - Richard Feynman
 
 11. Increment N by 1.
 
