@@ -4,8 +4,11 @@ _by [Mister Clayton](https://github.com/misterclayt0n) (Davi Arantes) and [Couti
 Welcome to _The Pillars of Programming_
 
 ### Why This Book Exists
-This book started as a course and evolved into a unique experience. Written by two lazy university students who love technology and are tired of the nonsense in tech, it’s here to show you that computers can do far more interesting things than just hard calculations. Programmers can do more than just web development; there is an infinite world of possibilities for what you can create.
-//TODO
+This book began as a course and evolved into a unique experience. Written by two lazy university students who love technology and are tired of the nonsense in the tech world, it’s here to show you that computers can do much more than just perform complex calculations. Programmers are capable of far more than just web development; there’s an infinite world of possibilities for what you can create.
+
+We’ve seen so many software engineers limited by a narrow view of technology, offering opinions on topics that were nothing more than arcane magic to them. So many abstractions, so many metaphors to explain things. Repeating canned phrases doesn’t make you a good engineer—maybe a great parrot. This book is guided by the principle that you can only truly understand something if you could build it yourself.
+
+These sometimes subtle barriers can prevent readers from diving into innovative projects, confining them to creating uninspired applications. We created this book to expand your perspective, to show you the almost infinite world of computing, and to demonstrate that this knowledge can be used for far more than just making money.  Computer Programming can also be an art.
 
 ### Who This Book Is For
 The reader should have some prior experience in developing computer programs. This book doesn’t start from absolute zero, and it's important that you already understand concepts like variables, control flows, functions, conditionals, etc.
