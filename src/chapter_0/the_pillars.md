@@ -152,3 +152,26 @@ The key takeaway from this is that math should be a tool, not the end goal (unle
   - **Applications**: Number Theory and Cryptography are indispensable in cybersecurity, blockchain, and digital transactions. Applications range from encryption algorithms like RSA and Elliptic Curve Cryptography (ECC) to hashing functions used in blockchain to secure transaction data. Without these concepts, modern digital security—including secure internet transactions, blockchain, and data integrity—would be impossible.
   - **Practical Considerations**: Again, there is no need for you to become an expert on this topic, but understanding the basics can help you understand better cryptographic protocols.
   - **Resources**: [An Introduction to the Theory of Numbers - G.H. Hardy and E.M. Wright](https://www.amazon.com/Introduction-Theory-Numbers-G-H-Hardy/dp/0199219869), [Understanding Cryptography - Christof Paar and Jan Pelzl](https://www.amazon.com/Understanding-Cryptography-Textbook-Students-Practitioners/dp/3642041000)
+
+## 2. Computer Networks
+
+### What are Computer Networks?
+At its core, a **computer network** is a collection of interconnected computers that can communicate with one another. It allows devices to exchange information and share resources seamlessly. Think of it as the nervous system of the digital world, where every device contributes to a global ecosystem.
+
+### A Brief History
+The concept of connecting the world began with a vision to unite people and machines, bridging gaps both geographically and socially. From ARPANET—the ancestor of today’s internet—to the social and economic phenomena we call globalization, computer networks have revolutionized communication. They’ve transformed how we share ideas, build relationships, and conduct business.
+
+### This topic sounds very romantic: connect the world, provide information to everyone, CONNECT PEOPLE, but as a programmer. Why should I care about this?
+
+Let’s face it: your application will likely run on some computer that needs to communicate with others, in many forms. Understanding computer networks isn't just a theoretical exercise—it directly impacts how you design, debug, and optimize your software. Here’s why it matters:
+
+- **Connectivity**: Networks are the backbone of modern computing. Without them, distributed systems, cloud computing, and web applications wouldn’t exist.
+- **Debugging**: A top-down understanding of network behavior helps troubleshoot latency issues, packet loss, or even unexpected application behavior.
+- **Layered Design**: Networking follows a layered approach (like the OSI model), and understanding this helps you build efficient and secure systems.
+- **Protocols**: Learning about protocols such as TCP/IP, HTTP, DNS, and even lower-level concepts like error detection, routing, and multiplexing can transform how you design communication between services.
+- **Software Revolution**: Networks have sparked revolutions like CDMA in telecommunications, decentralized blockchain systems, and cloud-native applications, all of which redefine how systems are architected.
+- **Security**: Secure communication channels protect sensitive data as it travels between nodes, a vital concern for modern applications.
+- **Cloud Platforms**: Services like AWS, GCP, and Azure provide robust infrastructure for deploying and scaling distributed applications, those services are just classic Networks Admin's routine.
+
+### The Fusion of Communication and Computer Networks
+The fusion of communication technologies and computer networks has revolutionized modern system design, laying the groundwork for distributed systems, cloud platforms, and global connectivity. This integration enables applications to seamlessly scale across multiple devices and locations, leveraging protocols, wireless communication, and advanced networking infrastructure. Distributed systems, which rely on interconnected nodes to function as a cohesive whole, thrive in this environment, powering innovations like IoT, blockchain, and cloud-native architectures. By mastering the principles of networks and their synergy with communication technologies, developers gain the tools to build resilient, scalable, and interconnected systems that redefine the boundaries of what software can achieve in a hyper-connected world.
